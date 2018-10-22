@@ -1,0 +1,21 @@
+chat bot
+
+pip install chatterbot
+
+https://github.com/gunthercox/ChatterBot
+
+pip install django chatterbot
+
+pip manage.py migrate django_chatterbot
+
+$ python -m django --version
+$ django-admin startproject mysite
+$ python manage.py runserver
+
+https://docs.djangoproject.com/en/2.1/intro/tutorial01/
+
+https://github.com/gunthercox/ChatterBot/tree/master/examples/django_app
+
+
+python manage.py migrate django_chatterbot
+python manage.py train
